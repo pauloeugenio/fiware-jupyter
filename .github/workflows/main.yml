@@ -2,7 +2,7 @@ name: Jupyter Docker 0.1
 
 on:
   push:
-    branches: ['master']
+    branches: ['main']
 
 jobs:
   build:
