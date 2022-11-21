@@ -8,6 +8,7 @@ WORKDIR /home/notebooks
 RUN pip install numpy \
 		pandas \
 		scikit-learn \
+		sktime \
 		tensorflow \
 		seaborn \
 		jupyter \
