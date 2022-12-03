@@ -9,6 +9,7 @@ RUN pip install numpy \
 		pandas \
 		scikit-learn \
 		sktime \
+		sklearn \
 		tensorflow \
 		seaborn \
 		jupyter \
