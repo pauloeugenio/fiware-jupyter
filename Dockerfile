@@ -13,6 +13,7 @@ RUN pip install numpy \
 		tensorflow \
 		seaborn \
 		jupyter \
+		pandas-profiling \
 		notebook
 EXPOSE 8888
 
