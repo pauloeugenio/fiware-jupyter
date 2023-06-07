@@ -8,3 +8,5 @@ docker run -d --rm --name jupyterserver -p 8888:8888 -v "$PWD/notebooks:/home/no
 
 #Para visualizar os logs do container e conseguir capturar a chave api do jupyter
 docker container logs jupyterserver
+
+More informations
