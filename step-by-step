@@ -1,3 +1,4 @@
+#Comandos para executar a plataforma 
 docker build -t fiware-ml .
 
 
