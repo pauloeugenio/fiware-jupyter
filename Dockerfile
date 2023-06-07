@@ -1,4 +1,4 @@
-#Imagem com Jupyter Notebook e algumas bibliotecas.
+#Imagem com Jupyter Notebook e algumas bibliotecas new.
 
 FROM python:3.8-slim-buster
 
