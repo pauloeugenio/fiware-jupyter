@@ -14,6 +14,7 @@ RUN pip install numpy \
 		seaborn \
 		jupyter \
 		pandas-profiling \
+		flask \
 		notebook
 EXPOSE 8888
 
