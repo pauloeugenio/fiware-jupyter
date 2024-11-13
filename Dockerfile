@@ -1,6 +1,6 @@
 #Imagem com Jupyter Notebook e algumas bibliotecas new.
 
-FROM python:3.8-slim-buster
+FROM python:3.14-rc-alpine
 
 RUN mkdir -p /home/notebooks
 WORKDIR /home/notebooks
