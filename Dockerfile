@@ -15,7 +15,7 @@ RUN pip install numpy \
 		jupyter \
 		pandas-profiling \
 		flask \
-		xgboost \ 
+		xgboost \
 		notebook
 EXPOSE 8888
 
